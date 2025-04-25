@@ -3,8 +3,13 @@
 @import url('./cards.css');
 
 :root {
-    --header-color: #89AC76;
+    --header-color: orange;
     --nav-color: #25221B;
-    --spacing-sm: 1.25rem;
     --box-color: #F3A505;
+    --nav-link-color: white;
+
+    --spacing-sm: 1.25rem;
+    --spacing-md: 2.5rem;
+    --spacing-lg: 3.75rem;
+    --spacing-xl: 5rem;
 }
