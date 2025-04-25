@@ -3,6 +3,7 @@
     color: white;
     margin-left: 1.75rem;
     padding: 1rem 2rem;
+    margin-top: var(--spacing-md);
     border-radius: .3125rem;
     border: 2px solid var(--nav-link-color);
     cursor: pointer;

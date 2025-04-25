@@ -2,7 +2,8 @@
     background-color: var(--box-color);
     display: grid;
     padding: var(--spacing-sm);
-    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
-    grid-template-rows: repeat(auto-fit, minmax(15rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(15rem ,1fr));
+    grid-template-rows: repeat(auto-fit, minmax(15rem ,1fr));
+    padding-bottom: var(--spacing-sm);
     gap: var(--spacing-sm);
 }
