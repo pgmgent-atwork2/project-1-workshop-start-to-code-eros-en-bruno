@@ -14,7 +14,89 @@
 </head>
 
 <body>
-    <h1>tutorial</h1>
+    <header class="header">
+        <nav class="header--nav">
+            <a class="header--nav__link" href="../bruno --- html/html/html.html" title="HTML Page">HTML</a>
+            <a class="header--nav__link" href="../bruno --- html/html/css.html" title="CSS Page">CSS</a>
+            <a class="header--nav__link" href="../bruno --- html/html/js.html" title="JS Page">JS</a>
+            <a class="header--nav__link" href="../bruno --- html/html/quiz.html" title="Quiz">Quiz</a>
+            <a class="header--nav__link" target="_blank" href="../../tutorial/tutorial.html"
+                title="Vind hier hoe we dit hebben gemaakt. ">Tutorial</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h1>Hoe maak je deze website?</h1>
+            <p>Hier vind je een tutorial hoe je deze website kunt maken.</p>
+
+            <img src="./assets/images/completed-website.png" alt="Website" title="Completed website"
+                class="intro--img" />
+
+            <div class="code-language">
+                <p>Voor onze website hebben wij 3 code talen gebruikt:</p>
+                <ul class="code-language--list">
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                </ul>
+                <p>Deze website is redelijk gemakkelijk te maken.</p>
+                <p>Hieronder vind je alle stappen die je moet volgen om deze website te maken.</p>
+            </div>
+        </section>
+
+        <section class="steps">
+            <div class="step-1">
+                <h2>Stap 1</h2>
+                <p>Allereerst moet je de applicatie van Visual Studio Code hebben.</p>
+                <p>Je kunt de applicatie maken door op de link hieronder te klikken.</p>
+                <a href="https://code.visualstudio.com/" target="_blank" rel="noopener" class="step-1--link">Download
+                    Visual Studio Code</a>
+
+                <div class="step-1-1">
+                    <h2>Stap 1.1</h2>
+                    <p>Maak een nieuwe map met de naam "starter-project".</p>
+                    <p>Maak in deze map nog enkele mappen. Hieronder kun je een voorbeeld zien van hoe onze
+                        mappenstructuur eruit ziet:</p>
+                    <img src="./assets/images/map-structure.png" alt="Folder structure" title="Folder structure"
+                        class="step-1--img" />
+                    <p>Je kunt gerust de namen van de mappen veranderen.</p>
+                </div>
+
+                <div class="step-1-2">
+                    <h2>Stap 1.2</h2>
+                    <p>Maak een nieuwe HTML-pagina met de naam "index.html".</p>
+                    <p>Open het "index.html" in de "live-server" icon. Je vind het logo onderaan.</p>
+                </div>
+            </div>
+
+            <div class="step-2">
+                <h2>Stap 2</h2>
+                <p>Laten we beginnen met coderen! Hieronder kunnen jullie de html pagina kopiëren. </p>
+                <script async src="//jsfiddle.net/bruno_willems1/gufzbo29/1/embed/html/dark/"></script>
+                <p>klik op HTML om de code te kopiëren.</p>
+
+                <div class="step-2-1">
+                    <h2>Stap 2.1</h2>
+                    <p>Nu gaan we beginnen met CSS.</p>
+                    <p>Maak een nieuwe folder aan genaamd "css".</p>
+                    <p>Maak in deze folder een nieuwe CSS-pagina aan met de naam "main.css".</p>
+                    <p>Plaats de volgende code daarin.</p>
+                    <script async src="//jsfiddle.net/bruno_willems1/gufzbo29/1/embed/css/dark/"></script>
+                </div>
+
+                <div class="step-2 2">
+                    <h2>Stap 2.2</h2>
+                    <p>Maak in diezelfde folder een nieuw bestand aan: "header.css".</p>
+                    <p>Zoals je in de main.css file zag kun je andere css bestanden toevoegen d.m.v de @import command.
+                    </p>
+                    <p>Nu is je header.css gelinkt met je main.css bestand.</p>
+                    <p>Kopieer volgende code in je header.css bestand:</p>
+                    <script async src="//jsfiddle.net/bruno_willems1/gufzbo29/2/embed/css/dark/"></script>
+                </div>
+            </div>
+        </section>
+    </main>
 </body>
 
 </html>
