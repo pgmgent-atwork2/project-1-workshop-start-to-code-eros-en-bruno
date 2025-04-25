@@ -1,3 +1,7 @@
 .cards {
     border: 5px solid white;
 }
+
+.cards h3 {
+    margin-left: var(--spacing-xm)
+}
