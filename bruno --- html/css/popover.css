@@ -1,0 +1,10 @@
+.popover {
+    position: absolute;
+    background-color: var(--box-color);
+    color: var(--nav-link-color);
+    border: .3125rem solid var(--border-color);
+    ;
+    padding: 10px;
+    font-size: var(--spacing-sm);
+    z-index: 1;
+}
