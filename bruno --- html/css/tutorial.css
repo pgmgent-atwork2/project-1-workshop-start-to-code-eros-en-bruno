@@ -1,0 +1,82 @@
+/* Maken van 'regenboog' op achtergrond van tutorial page */
+@keyframes bgColor {
+  5% {
+    background-color: rgb(255, 0, 0)
+  }
+
+  10% {
+    background-color: rgb(0, 255, 0);
+  }
+
+  15% {
+    background-color: rgb(0, 0, 255);
+  }
+
+  20% {
+    background-color: rgb(255, 255, 0);
+  }
+
+  25% {
+    background-color: rgb(0, 255, 255);
+  }
+
+  30% {
+    background-color: rgb(255, 0, 255);
+  }
+
+  35% {
+    background-color: rgb(255, 192, 203);
+  }
+
+  40% {
+    background-color: rgb(0, 35, 168);
+  }
+
+  45% {
+    background-color: rgb(128, 128, 128);
+  }
+
+  50% {
+    background-color: rgb(211, 211, 211);
+  }
+
+  55% {
+    background-color: rgb(255, 165, 0);
+  }
+
+  60% {
+    background-color: rgb(128, 0, 128);
+  }
+
+  65% {
+    background-color: rgb(165, 42, 42);
+  }
+
+  70% {
+    background-color: rgb(128, 128, 0);
+  }
+
+  75% {
+    background-color: rgb(173, 216, 230);
+  }
+
+  80% {
+    background-color: rgb(144, 238, 144);
+  }
+
+  85% {
+    background-color: rgb(255, 160, 122);
+  }
+
+  90% {
+    background-color: rgb(75, 0, 130);
+  }
+
+  95% {
+    background-color: rgb(64, 224, 208);
+  }
+
+  100% {
+    background-color: rgb(169, 169, 169);
+  }
+}

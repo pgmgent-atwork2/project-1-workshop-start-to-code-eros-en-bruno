@@ -3,8 +3,8 @@
     background-color: var(--box-color);
     color: var(--nav-link-color);
     border: .3125rem solid var(--border-color);
-    ;
     padding: 10px;
+    margin-top: 25.75rem;
     font-size: var(--spacing-sm);
     z-index: 1;
 }
