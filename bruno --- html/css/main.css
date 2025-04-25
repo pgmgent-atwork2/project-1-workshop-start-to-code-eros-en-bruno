@@ -1,0 +1,10 @@
+@import url('./header.css');
+@import url('./box.css');
+@import url('./cards.css');
+
+:root {
+    --header-color: #89AC76;
+    --nav-color: #25221B;
+    --spacing-sm: 1.25rem;
+    --box-color: #F3A505;
+}
