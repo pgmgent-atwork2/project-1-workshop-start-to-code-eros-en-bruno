@@ -1,6 +1,7 @@
 @import url('./header.css');
 @import url('./box.css');
 @import url('./cards.css');
+@import url('./form.css');
 
 :root {
     --header-color: orange;
