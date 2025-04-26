@@ -1,0 +1,19 @@
+.intro {
+    text-align: center;
+    padding: 2rem;
+    background-color: var(--background-color);
+}
+
+.intro--img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 1rem;
+}
+
+.code-language--list {
+    list-style-type: disc;
+    margin: 1rem auto;
+    padding: 0;
+    max-width: 300px;
+    text-align: left;
+}
