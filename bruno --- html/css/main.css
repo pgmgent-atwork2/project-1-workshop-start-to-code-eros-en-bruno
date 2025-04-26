@@ -5,7 +5,6 @@
 @import url('./button.css');
 @import url('./popover.css');
 @import url('./quiz.css');
-@import url('./tutorial.css');
 
 :root {
     --header-color: orange;
