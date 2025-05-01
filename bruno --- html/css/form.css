@@ -41,3 +41,13 @@
     font-size: 1.2rem;
     color: #4CAF50;
   }
+
+  .correct {
+    background-color: #d4edda;
+    border-left: 5px solid #28a745;
+  }
+  
+  .wrong {
+    background-color: #f8d7da;
+    border-left: 5px solid #dc3545;
+  }
