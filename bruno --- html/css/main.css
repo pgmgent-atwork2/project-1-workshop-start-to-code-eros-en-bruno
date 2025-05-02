@@ -20,3 +20,7 @@
     --spacing-xl: 5rem;
     --spacing-xxl: 7.5rem;
 }
+
+body {
+    font-family: "Lato" sans-serif;
+}
