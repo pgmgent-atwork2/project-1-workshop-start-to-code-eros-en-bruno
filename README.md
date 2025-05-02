@@ -1,5 +1,9 @@
 # Coding for Beginners - Tutorial Website
 
+Klik op volgende link om naar de tips en tricks pagina te gaan.
+
+[text](html.html)
+
 Welkom bij **Coding for Beginners** – een educatieve website die beginnende programmeurs helpt om HTML, CSS en JavaScript te begrijpen aan de hand van duidelijke uitleg, interactieve elementen en een quiz om je kennis te testen.
 
 ## 🌐 Inhoud van het project
